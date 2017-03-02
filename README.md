@@ -1,7 +1,7 @@
 # Reducing-WTFs-Per-Minute
 ![WTFM](http://www.osnews.com/images/comics/wtfm.jpg)
 
----
+
 High quality code should not surprise us. We should be able to quickly and easily discern the structure and intent of the code.
 
 
@@ -35,13 +35,20 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 ## Simplicity
 > Shorter code is easier to understand and debug
 
-- DIY
-- OOP / MVC
-- SOLID
-- Use Framework or not (correctly)?
+- DRY
+- SOLID: React / SDK
+- MVC / MVVM
+- Use Framework correctly(or not use)?
+
 
 ## Common Design Pattern
-* Design Pattern
+
+* Design Pattern(Interface)
+    
+    **Creational**: (Abstract)Factory, Singleton, Prototype
+    **Structural**: Adaptor, Composite, Proxy, Decorator
+    **Behavioral**: Observer(Sub/Pub), Iterator, Strategy(predicate)
+
     - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
     - [TomXu: Dive into Javascript series](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) 
 
