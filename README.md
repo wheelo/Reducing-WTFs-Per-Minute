@@ -11,7 +11,7 @@ High quality code should not surprise us. We should be able to quickly and easil
 
 
 ## Criteria
-How to analyse software quality?
+How to analyze software quality?
 
 - Readability. Is the source code legible? Is it correctly formatted and idiomatic?
 
