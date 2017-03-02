@@ -43,7 +43,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 ## Common Design Pattern
 * Design Pattern
     - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-    - [大叔深入javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) 
+    - [TomXu: Dive into Javascript series](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) 
 
 * Javascript
     - [Getify: Functional](https://github.com/getify/Functional-Light-JS)
@@ -51,8 +51,9 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
     - [Dmitry Soshnikov: ECMA-262-3,5 & Interpretation](http://dmitrysoshnikov.com/)
 
     
-* Clean Code:
+* Clean Code & Refactor:
     - [Clean Code for Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+    - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
     - [Martin Flower: Refactor](https://martinfowler.com/books/#refactoring)
 
 
