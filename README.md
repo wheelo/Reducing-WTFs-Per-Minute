@@ -11,7 +11,7 @@ Thus, we need to arrive some common sense at the code level.
 
 
 ## Criteria
-How to analyze software quality?
+How to analyze code quality?
 
 - Readability. 
 Is the source code legible? Is it correctly formatted and idiomatic?
