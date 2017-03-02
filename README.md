@@ -46,7 +46,9 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 * Design Pattern(Interface)
     
     **Creational**: (Abstract)Factory, Singleton, Prototype
+    
     **Structural**: Adaptor, Composite, Proxy, Decorator
+    
     **Behavioral**: Observer(Sub/Pub), Iterator, Strategy(predicate)
 
     - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
