@@ -13,15 +13,22 @@ High quality code should not surprise us. We should be able to quickly and easil
 ## Criteria
 How to analyze software quality?
 
-- Readability. Is the source code legible? Is it correctly formatted and idiomatic?
+- Readability. 
+Is the source code legible? Is it correctly formatted and idiomatic?
 
-- Patterns. Has the author used common patterns where appropriate? Similarly, have they avoided anti-patterns? 
-- Testability. Are there unit tests? How much coverage? How hard would it be to add such tests? 
+- Patterns. 
+Has the author used common patterns where appropriate? Similarly, have they avoided anti-patterns? 
+
+- Testability. 
+Are there unit tests? How much coverage? How hard would it be to add such tests? 
+
 - Data structures(Algorithms). 
 Are the data structures used appropriate for the code? Are they at the correct level of abstraction? Use appropriate algorithms.
 
-- Changeability. How hard is it to make changes to the codebase? Is it modular? How difficult would it be to change an algorithm or data structure? 
-- **Simplicity**
+- Changeability. 
+How hard is it to make changes to the codebase? Is it modular? How difficult would it be to change an algorithm or data structure?
+
+- **Simplicity**.
 Does the code avoid unnecessary complexity? Is it concise without being obfuscated?
 
 
@@ -36,16 +43,17 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 ## Common Design Pattern
 * Design Pattern
     - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-    - [大叔深入javascript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) 
+    - [TomXu: Dive into Javascript series](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html) 
 
 * Javascript
     - [Getify: Functional](https://github.com/getify/Functional-Light-JS)
     - [Getify: You don't know Javascript](https://github.com/getify/You-Dont-Know-JS)
-    - [Dmitry: ECMA3 & 5](http://dmitrysoshnikov.com/)
+    - [Dmitry Soshnikov: ECMA-262-3,5 & Interpretation](http://dmitrysoshnikov.com/)
 
     
-* Clean Code:
+* Clean Code & Refactor:
     - [Clean Code for Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+    - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
     - [Martin Flower: Refactor](https://martinfowler.com/books/#refactoring)
 
 
