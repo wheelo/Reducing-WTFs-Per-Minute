@@ -5,7 +5,7 @@
 ## Description
 High quality code should not surprise us. Instead, we should be able to quickly and easily discern the structure and intent of the code.
 
-Admittedly, the rationality of code structure plays an important role in code review. If the structure of your code is messed up, you will probably end up with some bad reputations together with your code. But what if the person evaluating code isn’t familiar with the patterns used by the original developer, and if the guys are totally ignorant of all delicate patterns displayed in codebase, as a result they are likely to harshly judge the code based on mis-comprehension. 
+Admittedly, the rationality of code structure plays an important role in code review. If the structure of your code is messed up, you will probably end up with bad reputations together with your code. But what if the person evaluating code isn’t familiar with the patterns used by the original developer, and what if all delicate patterns therein displayed are blind for them, in this case they are likely to harshly judge the code based on miscomprehension. 
 
 Therefore, we need to arrive a little bit common sense at the code level, that what I am going to talk about.
 
