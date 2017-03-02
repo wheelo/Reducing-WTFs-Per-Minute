@@ -57,7 +57,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 * Javascript
     - [Getify: Functional](https://github.com/getify/Functional-Light-JS)
     - [Getify: You don't know Javascript](https://github.com/getify/You-Dont-Know-JS)
-    - [Dmitry Soshnikov: ECMA-262-3,5 & Interpretation](http://dmitrysoshnikov.com/)
+    - [Dmitry Soshnikov: ECMA-262-3,5 & Interpretation](http://dmitrysoshnikov.com/)
 
     
 * Clean Code & Refactor:
