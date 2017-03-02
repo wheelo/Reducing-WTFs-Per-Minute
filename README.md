@@ -7,8 +7,7 @@
 
 
 ## Description
-> But doesn’t this then place software quality in the eyes of the beholder? What if the person evaluating the code isn’t familiar with the patterns used by the original developer? (Or – to be more cruel – what if they just aren’t competent enough to recognize the patterns used?) Are they not likely to harshly judge the code based on miscomprehension? (A similar suggestion to this measure is that software quality is inversely related to the amount of time required to make a modification; again the major problem with this is that it depends on the capability of the person making the change).
-- Abstract from [on-code-quality](http://ogsa-dai.sourceforge.net/blog/2011/08/22/on-code-quality/)
+> But doesn’t this then place software quality in the eyes of the beholder? What if the person evaluating the code isn’t familiar with the patterns used by the original developer? (Or – to be more cruel – what if they just aren’t competent enough to recognize the patterns used?) Are they not likely to harshly judge the code based on miscomprehension? (A similar suggestion to this measure is that software quality is inversely related to the amount of time required to make a modification; again the major problem with this is that it depends on the capability of the person making the change) - Abstract from [on-code-quality](http://ogsa-dai.sourceforge.net/blog/2011/08/22/on-code-quality/)
 
 
 ## Criteria
