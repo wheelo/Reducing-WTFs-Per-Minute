@@ -43,7 +43,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 
 ## Common Design Pattern
 
-* Design Pattern(Interface)
+* Design Pattern
     
     **Creational**: (Abstract)Factory, Singleton, Prototype
     
