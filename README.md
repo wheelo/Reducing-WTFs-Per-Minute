@@ -3,9 +3,9 @@
 
 
 ## Description
-High quality code should not surprise us. We should be able to quickly and easily discern the structure and intent of the code.
+High quality code should not surprise us. instead we should be able to quickly and easily discern the structure and intent of the code.
 
-But what if the person evaluating the code isn’t familiar with the patterns & codebase used by the original developer? (Or – to be more cruel – what if they just aren’t competent enough to recognize the patterns used?) Are they not likely to harshly judge the code based on miscomprehension? 
+But what if the person evaluating code isn’t familiar with the patterns developped by the original developer? For some reason, some guy  may be ignorant about what the contents and patterns displayed in codebase? And in these cases, they are likely to harshly judge the code based on miscomprehension. Thus, we need to arrive some common sense at the code level. 
 
 
 ## Criteria
@@ -15,10 +15,10 @@ How to analyze software quality?
 Is the source code legible? Is it correctly formatted and idiomatic?
 
 - Patterns. 
-Has the author used common patterns where appropriate? Similarly, have they avoided anti-patterns? 
+Has the author used common patterns where appropriate? Similarly, have they avoided anti-patterns?
 
 - Testability. 
-Are there unit tests? How much coverage? How hard would it be to add such tests? 
+Are there unit tests? How much coverage? How hard would it be to add such tests?
 
 - Data structures(Algorithms). 
 Are the data structures used appropriate for the code? Are they at the correct level of abstraction? Use appropriate algorithms.
@@ -36,6 +36,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 - DRY
 - SOLID: React / SDK
 - MVC / MVVM
+- Functional & OOP
 - Use Framework correctly(or not use)?
 
 
