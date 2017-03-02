@@ -3,9 +3,11 @@
 
 
 ## Description
-High quality code should not surprise us. Instead we should be able to quickly and easily discern the structure and intent of the code.
+High quality code should not surprise us. Instead, we should be able to quickly and easily discern the structure and intent of the code.
 
-But what if the person evaluating code isn’t familiar with the patterns developped by the original developer? For some reason, some guy  may be ignorant about what the contents and patterns displayed in codebase? And in these cases, they are likely to harshly judge the code based on miscomprehension. Thus, we need to arrive some common sense at the code level. 
+But what if the person evaluating code isn’t familiar with the patterns used by the original developer? Or more crucial, some guy  are totally ignorant of what design patterns have displayed in codebase? In both cases, they are likely to harshly judge the code based on miscomprehension. 
+
+Thus, we need to arrive some common sense at the code level. 
 
 
 ## Criteria
