@@ -5,9 +5,9 @@
 ## Description
 High quality code should not surprise us. Instead, we should be able to quickly and easily discern the structure and intent of the code.
 
-But what if the person evaluating code isn’t familiar with the patterns used by the original developer? Or to be more cruel, some guy are totally ignorant of all delicate patterns displayed in codebase? In both cases, they are likely to harshly judge the code based on miscomprehension. 
+Admittedly, the rationality of code structure plays an important role in code review. If the structure of your code is messed up, you will probably end up with some bad reputations together with your code. But what if the person evaluating code isn’t familiar with the patterns used by the original developer, and if the guys are totally ignorant of all delicate patterns displayed in codebase, as a result they are likely to harshly judge the code based on miscomprehension. 
 
-Thus, we need to arrive some common sense at the code level. 
+Thus, we need to arrive a little bit common sense at the code level, that what I am going to talk about.
 
 
 ## Criteria
@@ -33,7 +33,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 
 
 ## Simplicity
-> Shorter code is easier to understand and debug
+Shorter code is easier to understand and debug
 
 - DRY
 - SOLID: React / SDK
