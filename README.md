@@ -2,7 +2,7 @@
 ![WTFM](http://www.osnews.com/images/comics/wtfm.jpg)
 
 ---
->  High quality code should not surprise us. We should be able to quickly and easily discern the structure and intent of the code.
+High quality code should not surprise us. We should be able to quickly and easily discern the structure and intent of the code.
 
 
 
