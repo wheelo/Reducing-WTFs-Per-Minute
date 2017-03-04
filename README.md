@@ -33,7 +33,7 @@ Does the code avoid unnecessary complexity? Is it concise without being obfuscat
 
 
 ## Simplicity
-Shorter code is easier to understand and debug
+Simplicity is both the goal and the key to solving the problem of Reducing WTFs/Minute. And shorter code turns out to be easier to understand and debug.
 
 - DRY
 - SOLID: React / SDK
